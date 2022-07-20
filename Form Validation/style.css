@@ -1,0 +1,16 @@
+body {
+    font-family: 'Source Sans Pro';
+    letter-spacing: 1px;
+    font-size: 1rem;
+}
+
+h1 {
+    color: rgb(29, 5, 52);
+}
+
+.container {
+
+    background-color: rgb(236, 236, 243);
+    border: 1px dotted gray;
+    box-shadow: 10px 12px 2px 1px rgba(0, 0, 255, .2);
+}
