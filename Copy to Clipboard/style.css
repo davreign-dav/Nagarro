@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(237, 84, 13, 0.5));
+}
+
+h1 {
+    text-align: center;
+}
+
+#paste,
+#btn,
+#text {
+    background-color: rgb(38, 38, 43);
+    border: 1px dotted gray;
+    box-shadow: 5px 5px 1px 1px rgba(0, 0, 255, .2);
+    color: #fff;
+    opacity: .5;
+}
+
+.copy,
+.to,
+.paste {
+    text-align: center;
+}
+
+.paste,
+.to {
+    margin-top: 30px;
+}
